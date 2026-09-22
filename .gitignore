@@ -1,0 +1,14 @@
+# Build artifacts
+.build/
+dist/
+*.xcodeproj
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Local tooling session files (not part of the project)
+.twapp-*.json
+
+# Marketing site (separate public repo)
+website/
