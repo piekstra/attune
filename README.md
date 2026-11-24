@@ -188,4 +188,5 @@ care from an ADHD-informed clinician.
 
 ## License
 
-[MIT](LICENSE)
+Copyright (C) 2026 piekstra. Licensed under the GNU Affero General Public
+License, version 3 only (AGPL-3.0-only); see [LICENSE](LICENSE).

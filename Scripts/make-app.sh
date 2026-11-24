@@ -50,7 +50,7 @@ cat > "$APP_DIR/Contents/Info.plist" <<'PLIST'
     <key>NSRemindersUsageDescription</key>
     <string>With your permission, a Reminder is created when a break timer starts so your iPhone and Apple Watch can ring when it ends. Only reminders created by this app are ever touched; your existing reminders are never read.</string>
     <key>NSHumanReadableCopyright</key>
-    <string>MIT License</string>
+    <string>Copyright (C) 2026 piekstra. Licensed under AGPL-3.0-only.</string>
 </dict>
 </plist>
 PLIST
